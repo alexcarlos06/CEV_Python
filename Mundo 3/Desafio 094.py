@@ -1,0 +1,2 @@
+'''Crie um programa que leia o nome, sexo e a idade de várias pessoas, guardado os dados de cada pessoa em um dicionário e todos os dicionários em uma lista.
+No final, mostre: A) Quantas pessias foram cadastradas B) A mpedia de idade do grupo C)Uma lista com todas as mulheres. D) uma lista com todas as pessoas com idade acima da mpedia.'''
